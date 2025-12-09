@@ -9,6 +9,7 @@ header{
     padding: 20px;
     font-size: 32px;
     color: rgb (42,122,228);
+    font-family: "Chakra Petch", sans-serif;
 }
 
 section {
@@ -23,3 +24,4 @@ section {
     margin-right:  5%;
 }
 
+h1
