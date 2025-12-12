@@ -12,7 +12,7 @@ header{
     font-family: "Chakra Petch", sans-serif;
 }
 
-section {
+.chamada {
     background: rgb (184,156,213);
     padding-bottom: 80px;
     padding-top: 80px;
@@ -35,13 +35,13 @@ img {
     height: 200px;
 }
 
-.categoria-videos  {
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
 }
 
-section {
+.categoria {
     padding-left: 20px;
     padding-right: 20px;
 }
